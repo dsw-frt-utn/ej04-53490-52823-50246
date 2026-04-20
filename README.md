@@ -1,2 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/39DJV9ho)
+# DESARROLLO DE SOFTWARE 
+## Ejercicio N° 4
 
+## Integrantes
+
+53490 - Valverdi, Agustina Milagros - agusvalverdi1@gmail.com
+52823 - Perez Ale, Joaquin - joaquinperezale@gmail.com
+50246 - Figueroa, Angela Daiana - Angela.Figueroa@alu.frt.utn.edu.ar

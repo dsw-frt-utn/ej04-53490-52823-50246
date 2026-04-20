@@ -16,6 +16,14 @@ public class Persistencia {
         responsables.add(r2);
     }
     
+    public static ArrayList<Sucursal> getSucursales() {
+    return sucursales;
+}
+
+public static void agregarVehiculo(Vehiculo vehiculo) {
+    vehiculos.add(vehiculo);
+}
+    
     private static void inicializarSucursales(){
         Sucursal s1 = new Sucursal("SUC01", "Av. Belgrano 1200", "Tucumán", responsables.get(0));
         Sucursal s2 = new Sucursal("SUC02", "San Martín 450", "Yerba Buena", responsables.get(1));
